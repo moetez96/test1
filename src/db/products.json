@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "delice",
+    "description": "lait",
+    "image": "https://alimentation.founa.com/sites/default/files/images_products/168.jpg"
+  },
+  {
+    "id": "2",
+    "name": "delice",
+    "description": "yaourt",
+    "image": "https://fr.openfoodfacts.org/images/products/619/150/724/9383/front_fr.13.400.jpg"
+  },
+  {
+    "id": "3",
+    "name": "chips",
+    "description": "chips formage",
+    "image": "https://www.greekflavours.com/static/f49c99151159a5d5d5b6558bd3fad8cc/47203/lays-oregano.webp"
+  }
+]
